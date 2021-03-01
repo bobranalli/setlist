@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="xmlstyles.css"?>
+
+<playlist>
+    <heading>Hello There! We are the cover band "Dented By Design"</heading>
+    <subheading>Our setlist for the night</subheading>
+    <artist>
+        <aname> Watsky </aname>
+        <description> He raps fast and has great flow - lyrically, but more importantly
+        in reference to his hair </description>
+        <title> Songs we'll cover tonight: Tears to Diamonds, Woah Woah Woah,
+            Ink Don't Bleed, Stand for Something, Never Let It Die</title>
+        <genre> Genre: Rap with heavy slam poetry influence </genre>
+        <date> Date: All songs released in 2014 off the "All You Can Do" album
+            (aka the greatest album of all time)</date>
+        <mood> Mood: When you're feeling good but also might want to cry a little</mood>
+    </artist>
+
+
+    <artist>
+        <aname>Anderson .Paak</aname>
+        <description> The smoothest voice in the west </description>
+        <title>Songs we'll cover tonight: Suede, Come Home (not featuring Andre 3000 in this case)
+        King James</title>
+        <genre>Genre: Rhythm and Blues</genre>
+        <date>Off his 2019 album "Ventura" - Come Home, King James</date>
+        <date>Off his 2016 album "Yes Lawd!" - Suede</date>
+        <mood>Mood: When you want to become cooler just by listening to a song</mood>
+    </artist>
+
+
+    <artist>
+        <aname>Rich Brian</aname>
+        <description>Originally gaining fame because of his music video of him rapping
+            in a pink fanny pack, he's developed into a lyrically complex artist. </description>
+        <title>Songs we'll cover tonight: Drive Safe, Midsummer Madness, Love In My Pocket</title>
+        <genre>Genre: Rap and a little alternative</genre>
+        <date>Off his 2020 album "99" - Love In My Pocket</date>
+        <date>Off his 2019 album "The Sailor" - Drive Save</date>
+        <date>Off his 2018 album "Head In The Clouds - "Midsummer Madness</date>
+        <mood>Mood: When you can't tell if you want rap or smooth pop, why not
+        a little of both? </mood>
+    </artist>
+
+</playlist>

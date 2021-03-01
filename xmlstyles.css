@@ -1,0 +1,29 @@
+
+playlist {
+     color: #F0FFFF;
+     background-color: #2F4F4F;
+     width: 100%;
+}
+
+heading {
+    color: #FF7F50;
+    font-size: 40px;
+    background-color: #F0FFFF;
+    text-align: center;
+}
+
+subheading {
+    font-size: 30px;
+    color: #FF7F50;
+    text-align: center;
+    display: block;
+}
+
+heading, aname, title, genre, date, mood {
+    display: block;
+}
+
+aname {
+    font-size: 25px;
+    font-weight: bold;
+}
